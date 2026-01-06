@@ -1,0 +1,24 @@
+Data manipulation
+
+Panda X Polars
+
+What is Polars?
+Polars is a specialized livrary to work with massive datasets and manipulation data.
+A high-performance DataFrame library
+
+Polars is primarily written in Rust.
+
+What is one key advantage of Polars over Pandas?
+Faster performance and lower memory usage.
+
+Which type of executation model does Polars support for query optimization?
+Lazy Executation
+
+Key features of Polars
+- Based on Apache Arrows - uses Arrow's columnar format for efficient data representation
+- Lazy Evaluation - unlike Pandas, Poalrs supports lazy executation, optimizing queries before executation
+- Multi-threaded Processing: leverages Rust's parallelism for fast computation
+- Memory efficiency: reduces memory footprint by avoiding unecessary copies
+- SQL-like Querying: provides powerful query APIs similar to SQL
+- PySpark Alternative: Often compared wqith PySpark for handling large datasets efficiently
+

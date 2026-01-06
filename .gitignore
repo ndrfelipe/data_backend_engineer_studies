@@ -1,0 +1,4 @@
+venv
+.venv
+polars_venv
+.polars_venv

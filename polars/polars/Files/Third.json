@@ -1,0 +1,22 @@
+{
+  "name": "Chris",
+  "age": 23,
+  "address": "America",
+  "friends": [
+    {
+      "name": "Emily",
+      "hobbies": [
+        "biking",
+        "music",
+        "gaming"
+      ]
+    },
+    {
+      "name": "John",
+      "hobbies": [
+        "soccer",
+        "gaming"
+      ]
+    }
+  ]
+}
